@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Harmony 4 You",
+  "base_artist": "BRIGHT DIAMOND",
+  "createdAt": "2026-04-05T03:36:49.124540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Harmony of One's Heart",
+      "artist": "ディーヴァ(Vo.八木海莉)",
+      "has_synced": false,
+      "path": "select/01_Harmony_of_One's_Heart_ディーヴァ(Vo.八木海莉).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World In Perfect Harmony",
+      "artist": "Kim Wilde",
+      "has_synced": true,
+      "path": "select/02_World_In_Perfect_Harmony_Kim_Wilde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harmony",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/03_Harmony_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Music And Harmony",
+      "artist": "Cappella",
+      "has_synced": false,
+      "path": "select/04_Music_And_Harmony_Cappella.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Harmony",
+      "artist": "The Beloved",
+      "has_synced": false,
+      "path": "select/05_Sweet_Harmony_The_Beloved.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Harmony",
+      "artist": "Monarchy feat. The Pledge Choir",
+      "has_synced": false,
+      "path": "select/06_Sweet_Harmony_Monarchy_feat._The_Pledge_Choir.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Harmony",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/07_Harmony_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Harmony in My Head",
+      "artist": "Buzzcocks",
+      "has_synced": true,
+      "path": "select/08_Harmony_in_My_Head_Buzzcocks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love, Peace and Harmony",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/09_Love,_Peace_and_Harmony_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love, Peace and Harmony (USA Remix)",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/10_Love,_Peace_and_Harmony_(USA_Remix)_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Harmony",
+      "artist": "Clinic",
+      "has_synced": true,
+      "path": "select/11_Harmony_Clinic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eighteen People Live In Harmony",
+      "artist": "Dredg",
+      "has_synced": true,
+      "path": "select/12_Eighteen_People_Live_In_Harmony_Dredg.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Harmony",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/13_Harmony_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lord (feat. Bone Thugs-N-Harmony)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/14_Lord_(feat._Bone_Thugs-N-Harmony)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Harmony 4 You",
+      "artist": "BRIGHT DIAMOND",
+      "has_synced": false,
+      "path": "select/pl_01_Harmony_4_You_BRIGHT_DIAMOND.txt"
+    }
+  ]
+}
