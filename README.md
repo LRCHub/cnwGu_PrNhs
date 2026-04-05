@@ -1,0 +1,72 @@
+# BRIGHT DIAMOND – Harmony 4 You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+届け! (届け!)
+私たちのVoice キミの元へ
+ずっと (ずっと) ここにあるTheater (Theater)
+響け! (響け!)
+はじまりの音 幕が開いた…
+Sparkling Lights! (Million Stars!)
+Hearty Song!
+Yes, All 4 You!!
+目を閉じると (目を閉じると)
+浮かんでくるよ (ほら)
+空っぽのステージ (ここからがそう)
+夢のスタート
+不安とかドキドキで
+戸惑うあの日の私
+ふと目が合った
+おいで (見える?) 自分信じて
+未来は (こんなに) 輝いているから!
+届け! (届け!)
+私たちのYell 彼方まで
+ここは (ここは) 最高のTheater (Theater)
+響け! (響け!)
+この歌に乗せ 愛を送るよ
+Sparkling Lights! (Million Stars!)
+Hearty Song!
+Yes, All 4 You!!
+いつも (いつも) そう Theater with you…
+Theater 4 You!!
+一歩ずつね (一歩ずつね)
+前に進んでる (Step up)
+みんなと出会い (仲間が増え)
+楽しい Everyday
+誰もが主人公で
+それぞれのスクリーン
+自由に描こう
+だから (キミも) 自分信じて
+願いは (なんだって) 必ず叶うから!
+届け! (届け!)
+私たちのVoice キミの元へ
+ずっと (ずっと) ここにあるTheater (Theater)
+響け! (響け!)
+重なるHarmony 一緒に感じよう
+Sparkling Lights! (Million Stars!)
+Hearty Song!
+Yes, All 4 You!!
+汗も涙も笑顔も全てがキセキ (宝物)
+本当の私でいられる場所 (On stage)
+言 (こと) 葉に (ばに)
+できないくらいの幸せ (もらったよ)
+ありがとう
+いつか (いつか) 描いていた夢 思い出す
+そうだ (それは) 今、この瞬間 (瞬間)
+響け! (響け!)
+はじまりの音 幕が開いた…
+Sparkling Lights! (Million Stars!)
+Hearty Song!
+Yes, All 4 You!!
+届け! (届け!)
+私たちのYell どこまでも
+ここは (ここは) 最高のTheater (Theater)
+響け! (響け!)
+一体感Tune これが愛だよ
+Sparkling Lights! (Million Stars!)
+Hearty Song!
+Yes, All 4 You!!
+いつも (いつも) そう Harmony with you…
+Harmony 4 You!!
+```
